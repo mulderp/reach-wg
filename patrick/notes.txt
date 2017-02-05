@@ -1,0 +1,5 @@
+
+
+# Learning about the ESP32 architecture
+
+It seems there is a Tensilica core available in Qemu (http://www.esp8266.com/viewtopic.php?f=9&t=26 ). So, it is possible ot emulate basic firmware http://wiki.linux-xtensa.org/index.php/Xtensa_on_QEMU
